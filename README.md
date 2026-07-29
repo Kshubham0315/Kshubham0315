@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="AI Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Shubham%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20%7C%20GenAI%20%7C%20AI%20Agents&descAlignY=58&descAlign=50" width="100%" alt="AI Banner"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm <span style="color:#00F7FF;">Shubham Kumar</span>
 
@@ -18,10 +18,13 @@
 
 <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
+
 </div>
 
 ---
-
 
 # 🚀 Who Am I?
 
@@ -46,79 +49,32 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 
 # 💡 Current Mission
 
-```text
-Learn
-        ↓
-
-Build
-        ↓
-
-Deploy
-        ↓
-
-Optimize
-        ↓
-
-Scale
-        ↓
-
-Repeat
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Deploy;Optimize+%E2%86%92+Scale+%E2%86%92+Repeat" alt="mission typing"/>
+</div>
 
 ---
 
+# 🛠️ Tech Stack (Animated Icons)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,aws,git,github,linux,mysql,postgres,redis,vscode&theme=dark" />
+
+</div>
+
+---
 
 # 📍 Current Focus
 
 <table>
 
-<tr>
-
-<td>🧠 Machine Learning</td>
-
-<td>███████████████░░</td>
-
-</tr>
-
-<tr>
-
-<td>🤖 Generative AI</td>
-
-<td>█████████████░░░</td>
-
-</tr>
-
-<tr>
-
-<td>⚡ AI Agents</td>
-
-<td>████████████░░░░</td>
-
-</tr>
-
-<tr>
-
-<td>☁️ AWS Cloud</td>
-
-<td>██████████░░░░░░</td>
-
-</tr>
-
-<tr>
-
-<td>📊 Data Engineering</td>
-
-<td>███████████░░░░░</td>
-
-</tr>
-
-<tr>
-
-<td>🚀 MLOps</td>
-
-<td>██████████░░░░░░</td>
-
-</tr>
+<tr><td>🧠 Machine Learning</td><td>███████████████░░</td></tr>
+<tr><td>🤖 Generative AI</td><td>█████████████░░░</td></tr>
+<tr><td>⚡ AI Agents</td><td>████████████░░░░</td></tr>
+<tr><td>☁️ AWS Cloud</td><td>██████████░░░░░░</td></tr>
+<tr><td>📊 Data Engineering</td><td>███████████░░░░░</td></tr>
+<tr><td>🚀 MLOps</td><td>██████████░░░░░░</td></tr>
 
 </table>
 
@@ -154,33 +110,22 @@ Repeat
 <div align="center">
 
 <a href="mailto:kshubham0315@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/kshubham0315/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="https://github.com/kshubham0315">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 <a href="https://YOUR-PORTFOLIO.com">
-
 <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-
 </a>
 
 </div>
-
----
-
 
 ---
 
@@ -190,7 +135,7 @@ Repeat
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kshubham0315&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kshubham0315&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=kshubham0315&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -214,7 +159,12 @@ Repeat
 
 ---
 
-# 🏆 GitHub Achievements <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kshubham0315&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/> </div>
+# 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kshubham0315&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+</div>
+
 ---
 
 # ⚡ Developer Snapshot
@@ -294,10 +244,11 @@ Repeat
 
 ---
 
-
 ### ⭐ Thanks for scrolling this far!
 
 **Building AI that solves real-world problems.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
 
 </div>
 
