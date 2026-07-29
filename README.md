@@ -10,11 +10,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Kshubham0315&label=PROFILE+VIEWS&style=for-the-badge&color=00F7FF"/>
+<img src="https://komarev.com/ghpvc/?username=kshubham0315&label=PROFILE+VIEWS&style=for-the-badge&color=00F7FF"/>
 
-<img src="https://img.shields.io/github/followers/Kshubham0315?style=for-the-badge&logo=github&color=00F7FF"/>
+<img src="https://img.shields.io/github/followers/kshubham0315?style=for-the-badge&logo=github&color=00F7FF"/>
 
-<img src="https://img.shields.io/github/stars/Kshubham0315?style=for-the-badge&logo=github&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/kshubham0315?style=for-the-badge&logo=github&color=8A2BE2"/>
 
 <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 
