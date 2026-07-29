@@ -129,7 +129,7 @@ I'm **Shubham Kumar**, a **B.Tech Information Technology** student at **KIET Gha
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,bash" />
 </p>
 
 ---
@@ -139,7 +139,6 @@ I'm **Shubham Kumar**, a **B.Tech Information Technology** student at **KIET Gha
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
@@ -169,7 +168,7 @@ I'm **Shubham Kumar**, a **B.Tech Information Technology** student at **KIET Gha
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs"/>
 
 </p>
 
@@ -211,7 +210,7 @@ I'm **Shubham Kumar**, a **B.Tech Information Technology** student at **KIET Gha
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
@@ -223,7 +222,7 @@ I'm **Shubham Kumar**, a **B.Tech Information Technology** student at **KIET Gha
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,postman,figma,capcut"/>
 
 </p>
 
