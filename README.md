@@ -133,7 +133,7 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kshubham0315&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=kshubham0315&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-streak-stats.herokuapp.com/?user=kshubham0315&theme=tokyonight&hide_border=true)"/>
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=kshubham0315&theme=tokyonight&hide_border=true"/>
 
