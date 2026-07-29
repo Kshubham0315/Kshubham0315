@@ -32,8 +32,6 @@
 
 ---
 
-## 💫 About Me
-
 Hi 👋
 
 I'm **Shubham Kumar**, a **B.Tech Information Technology** student at **KIET Ghaziabad** with a passion for building intelligent AI systems.
