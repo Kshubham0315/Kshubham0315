@@ -130,7 +130,7 @@ Repeat
 
 | Platform | Solved |
 |----------|--------:|
-| 🟡 LeetCode | **320+ Problems** |
+| 🟡 LeetCode | **476+ Problems** |
 | 🟢 GeeksforGeeks | **260+ Problems** |
 
 </div>
