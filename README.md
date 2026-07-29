@@ -214,11 +214,7 @@ Repeat
 
 ---
 
-# 🏅 GitHub Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshubham0315&theme=tokyonight">
-</p>
+# 🏆 GitHub Achievements <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kshubham0315&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/> </div>
 ---
 
 # ⚡ Developer Snapshot
