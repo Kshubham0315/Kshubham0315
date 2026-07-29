@@ -10,11 +10,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kshubham0315&label=PROFILE+VIEWS&style=for-the-badge&color=00F7FF"/>
+<img src="https://komarev.com/ghpvc/?username=Kshubham0315&label=PROFILE+VIEWS&style=for-the-badge&color=00F7FF"/>
 
-<img src="https://img.shields.io/github/followers/kshubham0315?style=for-the-badge&logo=github&color=00F7FF"/>
+<img src="https://img.shields.io/github/followers/Kshubham0315?style=for-the-badge&logo=github&color=00F7FF"/>
 
-<img src="https://img.shields.io/github/stars/kshubham0315?style=for-the-badge&logo=github&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/Kshubham0315?style=for-the-badge&logo=github&color=8A2BE2"/>
 
 <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 
@@ -133,9 +133,9 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 
 <div align="center">
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=kshubham0315&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-streak-stats.herokuapp.com/?user=kshubham0315&theme=tokyonight&hide_border=true)"/>
+<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Kshubham0315&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-streak-stats.herokuapp.com/?user=Kshubham0315&theme=tokyonight&hide_border=true)"/>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=kshubham0315&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kshubham0315&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -143,7 +143,7 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshubham0315&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshubham0315&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -153,7 +153,7 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshubham0315&theme=tokyo-night&hide_border=true&line=00F7FF&point=00F7FF&color=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kshubham0315&theme=tokyo-night&hide_border=true&line=00F7FF&point=00F7FF&color=FFFFFF"/>
 
 </div>
 
@@ -162,7 +162,7 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 # 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kshubham0315&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kshubham0315&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 ---
