@@ -181,6 +181,219 @@ Repeat
 
 ---
 
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kshubham0315&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kshubham0315&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshubham0315&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshubham0315&theme=tokyo-night&hide_border=true&line=00F7FF&point=00F7FF&color=FFFFFF"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kshubham0315&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# ⚡ Developer Snapshot
+
+<div align="center">
+
+| 🚀 | Details |
+|:--:|:--------|
+| 👨‍💻 Role | AI Engineer |
+| 🎓 College | KIET Ghaziabad |
+| 💼 Looking For | AI/ML Internship |
+| 🤖 Interests | Machine Learning • GenAI • AI Agents |
+| ☁️ Cloud | AWS |
+| 📊 Data | Data Engineering |
+| ⚙️ MLOps | Docker • Kubernetes • MLflow • DVC |
+
+</div>
+
+---
+
+# 🧠 AI Engineering Highlights
+
+```text
+🧠 Machine Learning
+██████████████████
+
+🤖 Generative AI
+████████████████
+
+⚡ AI Agents
+██████████████
+
+📊 Data Engineering
+█████████████
+
+☁️ AWS Cloud
+████████████
+
+🚀 MLOps
+████████████
+
+🐳 Docker
+██████████████
+
+☸ Kubernetes
+███████████
+```
+
+---
+
+# 🌱 What I'm Learning
+
+```yaml
+Current:
+
+  - Machine Learning
+
+  - Deep Learning
+
+  - Transformers
+
+  - LLMs
+
+  - AI Agents
+
+  - LangChain
+
+  - LangGraph
+
+  - Reinforcement Learning
+
+  - Apache Spark
+
+  - Apache Kafka
+
+  - Data Engineering
+
+  - Docker
+
+  - Kubernetes
+
+  - AWS
+
+  - MLflow
+
+  - DVC
+```
+
+---
+
+# 💼 Recruiter Highlights
+
+<div align="center">
+
+| ✔️ | Highlights |
+|----|------------|
+| 🤖 | AI/ML Enthusiast |
+| 🧠 | Production ML Projects |
+| 📊 | Data Engineering Learner |
+| ☁️ | AWS Cloud |
+| ⚙️ | MLOps |
+| 🚀 | AI Agents |
+| 📚 | Continuous Learner |
+| 💻 | Strong Problem Solving |
+
+</div>
+
+---
+
+# 📌 AI Philosophy
+
+<div align="center">
+
+> **"The best AI is not the one with the biggest model, but the one that creates the biggest impact."**
+
+</div>
+
+---
+
+# 🚀 Current Journey
+
+```text
+Python
+   │
+   ▼
+Machine Learning
+   │
+   ▼
+Deep Learning
+   │
+   ▼
+Generative AI
+   │
+   ▼
+AI Agents
+   │
+   ▼
+MLOps
+   │
+   ▼
+Production AI Systems
+```
+
+---
+
+# 💙 Fun Fact
+
+```python
+while alive:
+
+    Learn()
+
+    Build()
+
+    Share()
+
+    Improve()
+
+    Repeat()
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for scrolling this far!
+
+**Building AI that solves real-world problems.**
+
+</div>
+
+---
 <div align="center">
 
 ## 💭 Quote
