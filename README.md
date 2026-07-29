@@ -67,20 +67,6 @@ Repeat
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Become Industry Ready AI Engineer
-- ✅ Master Machine Learning
-- ✅ Master Deep Learning
-- ✅ Build Production Ready AI Agents
-- ✅ Learn Data Engineering
-- ✅ Learn Kubernetes
-- ✅ Learn AWS Cloud
-- ✅ Master MLOps
-- ✅ Contribute to Open Source
-- ✅ Publish AI Projects
-
----
 
 # 📍 Current Focus
 
