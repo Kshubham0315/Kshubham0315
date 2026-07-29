@@ -272,46 +272,6 @@ Repeat
 
 ---
 
-# 🌱 What I'm Learning
-
-```yaml
-Current:
-
-  - Machine Learning
-
-  - Deep Learning
-
-  - Transformers
-
-  - LLMs
-
-  - AI Agents
-
-  - LangChain
-
-  - LangGraph
-
-  - Reinforcement Learning
-
-  - Apache Spark
-
-  - Apache Kafka
-
-  - Data Engineering
-
-  - Docker
-
-  - Kubernetes
-
-  - AWS
-
-  - MLflow
-
-  - DVC
-```
-
----
-
 # 💼 Recruiter Highlights
 
 <div align="center">
@@ -341,51 +301,6 @@ Current:
 
 ---
 
-# 🚀 Current Journey
-
-```text
-Python
-   │
-   ▼
-Machine Learning
-   │
-   ▼
-Deep Learning
-   │
-   ▼
-Generative AI
-   │
-   ▼
-AI Agents
-   │
-   ▼
-MLOps
-   │
-   ▼
-Production AI Systems
-```
-
----
-
-# 💙 Fun Fact
-
-```python
-while alive:
-
-    Learn()
-
-    Build()
-
-    Share()
-
-    Improve()
-
-    Repeat()
-```
-
----
-
-<div align="center">
 
 ### ⭐ Thanks for scrolling this far!
 
