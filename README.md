@@ -63,7 +63,7 @@ I'm **Shubham Kumar**, a **B.Tech Information Technology** student at **KIET Gha
 
 | Platform | Solved |
 |----------|--------:|
-| 🟡 LeetCode | **320+ Problems** |
+| 🟡 LeetCode | **470+ Problems** |
 | 🟢 GeeksforGeeks | **260+ Problems** |
 
 </div>
