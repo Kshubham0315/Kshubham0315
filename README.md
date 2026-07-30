@@ -91,6 +91,11 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 
 </div>
 
+### 📊 LeetCode (Live Cards)
+
+<p align="center">
+  <img width="45%" src="https://leetcard.jacoblin.cool/Shubham_Kumar_47?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</p>
 ---
 
 # 🎓 Certifications
@@ -105,11 +110,6 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 
 ---
 
-### 📊 LeetCode + Codeforces (Live Cards)
-
-<p align="center">
-  <img width="45%" src="https://leetcard.jacoblin.cool/kshubham0315?theme=dark&ext=heatmap" alt="LeetCode Stats" />
-</p>
 
 # 🌎 Connect With Me
 
