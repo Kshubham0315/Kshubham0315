@@ -169,7 +169,6 @@ My long-term vision is to build state-of-the-art AI products powered by **Machin
 | 🚀 | Details |
 |:--:|:--------|
 | 👨‍💻 Role | AI Engineer |
-| 🎓 College | KIET Ghaziabad |
 | 💼 Looking For | AI/ML Internship |
 | 🤖 Interests | Machine Learning • GenAI • AI Agents |
 | ☁️ Cloud | AWS |
