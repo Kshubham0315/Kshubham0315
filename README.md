@@ -46,23 +46,7 @@ My work revolves around combining machine learning research, deep learning archi
 - **MLOps & Cloud:** Building reproducible ML workflows, experiment tracking, CI/CD, deployment, and model monitoring.
 - **Open Source:** Contributing to machine learning and AI ecosystems, improving existing systems through engineering-driven contributions.
 
-```python
-class ShubhamKumar:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.focus = [
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "Agentic AI",
-            "MLOps"
-        ]
-        self.languages = ["Python", "C++", "SQL"]
-        self.current_goal = "Build intelligent systems that solve real problems"
 
-    def philosophy(self):
-        return "Failure is a stepping stone to success."
-```
 
 ---
 
