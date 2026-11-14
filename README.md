@@ -408,28 +408,4 @@ Contributing to open-source ecosystems through bug fixes, performance improvemen
 
 ---
 
-## ⌘ Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shubham-kumar-4b0118320"><img src="https://img.shields.io/badge/LinkedIn-Shubham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://github.com/Kshubham0315"><img src="https://img.shields.io/badge/GitHub-Kshubham0315-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<a href="https://huggingface.co/kshubham0315"><img src="https://img.shields.io/badge/HuggingFace-kshubham0315-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-
-<a href="https://www.kaggle.com/kshubham0315"><img src="https://img.shields.io/badge/Kaggle-kshubham0315-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-
-<a href="https://codolio.com/profile/kshubham0315"><img src="https://img.shields.io/badge/Codolio-Profile-58A6FF?style=for-the-badge"/></a>
-
-<a href="https://leetcode.com/u/Shubham_Kumar_47/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%"/>
-
-### Building Today. Innovating Tomorrow.
-
-*Failure is a stepping stone to success.*
-
 </div>
