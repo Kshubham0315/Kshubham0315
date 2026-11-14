@@ -50,6 +50,20 @@ My focus spans **Machine Learning**, **Deep Learning**, **Generative AI**, **Mul
 
 ---
 
+### 📈 Problem Solving Stats (Live)
+
+<div align="center">
+  <a href="https://leetcode.com/u/Shubham_Kumar_47/">
+    <img src="https://leetcard.jacoblin.cool/Shubham_Kumar_47?theme=tokyonight&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  </a>
+  <br><br>
+  <a href="https://codolio.com/profile/kshubham0315">
+    <img src="https://dsastats.vercel.app/api/codolio/kshubham0315" alt="Codolio Stats" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 #### Languages & Core
@@ -185,18 +199,6 @@ My focus spans **Machine Learning**, **Deep Learning**, **Generative AI**, **Mul
 
 - **[pysad](https://github.com/selimfirat/pysad)** → Vectorized RobustRandomCutForest (≈2× speedup) — [PR #397](https://github.com/selimfirat/pysad/pull/397)
 - **[topiary](https://github.com/openvax/topiary)** → Sparse historical prediction sources with provenance — [PR #506](https://github.com/openvax/topiary/pull/506)
-
----
-
-### 📈 Problem Solving
-
-<div align="center">
-  
-  **900+** DSA Problems Solved &nbsp;•&nbsp; **500+** LeetCode Solved
-  
-  Focus: Graph Theory • Dynamic Programming • Trees • Binary Search
-  
-</div>
 
 ---
 
