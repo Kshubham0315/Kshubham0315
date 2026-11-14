@@ -1,34 +1,18 @@
- 
-<!-- =========================================================
-     SHUBHAM KUMAR | GITHUB PROFILE README
-     AI/ML ENGINEER · GENERATIVE AI · MLOPS · AI AGENTS
-     GitHub: Kshubham0315
-========================================================== -->
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Shubham%20Kumar&fontSize=48&fontColor=58A6FF&stroke=58A6FF&strokeWidth=1&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%C2%B7%20MLOps%20%C2%B7%20AI%20Agents&descSize=16&descAlignY=70&color=0:0D1117,100:161B22" width="100%" alt="Shubham Kumar"/>
 
-<p>
-<strong>Building intelligent systems. Engineering autonomous AI. Turning research into real-world products.</strong>
-</p>
+**Building intelligent systems. Engineering autonomous AI. Turning research into real-world products.**
 
-<a href="https://www.linkedin.com/in/kshubham0315">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Kshubham0315">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://huggingface.co/kshubham0315">
-<img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-<a href="https://www.kaggle.com/kshubham0315">
-<img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/shubham-kumar-4b0118320"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Kshubham0315"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://huggingface.co/kshubham0315"><img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://www.kaggle.com/kshubham0315"><img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://codolio.com/profile/kshubham0315"><img src="https://img.shields.io/badge/Codolio-Profile-7C3AED?style=for-the-badge"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI+%7C+RAG;LangGraph+%7C+MCP+%7C+Multi-Agent+Systems;Computer+Vision+%7C+PyTorch;MLOps+%7C+Cloud+%7C+Production+AI" alt="Engineering Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI+%7C+RAG;LangGraph+%7C+MCP+%7C+Multi-Agent+Systems;Computer+Vision+%7C+PyTorch;MLOps+%7C+Cloud+%7C+Production+AI" />
 
 </div>
 
@@ -36,17 +20,15 @@
 
 ## ❖ About Me
 
-I'm **Shubham Kumar**, an AI/ML Engineer and Computer Science undergraduate focused on building intelligent, scalable, and production-ready AI systems.
+I'm **Shubham Kumar**, an AI/ML Engineer and B.Tech Information Technology undergraduate focused on building intelligent, scalable, and production-ready AI systems.
 
-My work revolves around combining machine learning research, deep learning architectures, generative AI, and engineering practices to develop practical AI applications.
+- **Machine Learning:** Predictive models, deep learning architectures and end-to-end ML pipelines.
+- **Generative AI:** LLM applications, RAG pipelines and multi-agent systems.
+- **Computer Vision:** Vision Transformers, image/video intelligence and hybrid architectures.
+- **MLOps & Cloud:** Reproducible workflows, experiment tracking, CI/CD and model monitoring.
+- **Open Source:** Contributing to machine learning and AI ecosystems.
 
-- **Machine Learning:** Developing predictive models, deep learning architectures, and end-to-end ML pipelines.
-- **Generative AI:** Building LLM-powered applications, RAG pipelines, and multi-agent systems using LangChain and LangGraph.
-- **Computer Vision:** Exploring Vision Transformers, image/video intelligence, and hybrid neural architectures.
-- **MLOps & Cloud:** Building reproducible ML workflows, experiment tracking, CI/CD, deployment, and model monitoring.
-- **Open Source:** Contributing to machine learning and AI ecosystems, improving existing systems through engineering-driven contributions.
-
-
+**Explore my work:** [Portfolio](https://shubham-ai-dev.vercel.app/) · [GitHub Repositories](https://github.com/Kshubham0315?tab=repositories)
 
 ---
 
@@ -58,7 +40,7 @@ My work revolves around combining machine learning research, deep learning archi
 
 ### ◈ Machine Learning & Deep Learning
 
-Designing and experimenting with neural architectures, feature engineering, model optimization, and computer vision systems.
+Designing and experimenting with neural architectures, feature engineering, model optimization and computer vision systems.
 
 `PyTorch` `Scikit-learn` `TensorFlow` `OpenCV` `XGBoost`
 
@@ -67,7 +49,7 @@ Designing and experimenting with neural architectures, feature engineering, mode
 
 ### ◈ Generative & Agentic AI
 
-Engineering intelligent applications using LLMs, retrieval pipelines, autonomous agents, and human-in-the-loop workflows.
+Engineering intelligent applications using LLMs, retrieval pipelines, autonomous agents and human-in-the-loop workflows.
 
 `LangChain` `LangGraph` `RAG` `MCP` `LLMs`
 
@@ -78,7 +60,7 @@ Engineering intelligent applications using LLMs, retrieval pipelines, autonomous
 
 ### ◈ MLOps & AI Infrastructure
 
-Building reproducible pipelines, experiment tracking, model versioning, automated deployments, and observability systems.
+Building reproducible pipelines, experiment tracking, model versioning, automated deployments and observability systems.
 
 `MLflow` `DVC` `Docker` `AWS` `Kubernetes`
 
@@ -87,7 +69,7 @@ Building reproducible pipelines, experiment tracking, model versioning, automate
 
 ### ◈ AI Application Engineering
 
-Integrating machine learning models with APIs, backend services, data pipelines, and real-world applications.
+Integrating machine learning models with APIs, backend services, data pipelines and real-world applications.
 
 `FastAPI` `Flask` `PostgreSQL` `Redis` `GitHub Actions`
 
@@ -103,11 +85,11 @@ Integrating machine learning models with APIs, backend services, data pipelines,
 <tr>
 <td width="50%" valign="top">
 
-### 01. DeepShield-MF
+### 01. [DeepShield-MF ↗](https://github.com/Kshubham0315/DeepShield-MF)
 
 **Deepfake Video Detection**
 
-A deep learning system designed to identify manipulated video content using spatial, frequency, and temporal representations.
+A deep learning system designed to identify manipulated video content using spatial, frequency and temporal representations.
 
 - ViT-based frame-level classification.
 - 87.77% reported validation accuracy.
@@ -117,10 +99,12 @@ A deep learning system designed to identify manipulated video content using spat
 
 `PyTorch` `ViT` `ResNet50` `FFT` `BiLSTM` `OpenCV`
 
+[Repository](https://github.com/Kshubham0315/DeepShield-MF) · [Issues](https://github.com/Kshubham0315/DeepShield-MF/issues)
+
 </td>
 <td width="50%" valign="top">
 
-### 02. OmniML
+### 02. [OmniML ↗](https://github.com/Kshubham0315/Omni_ML)
 
 **Autonomous Human-in-the-Loop AutoML**
 
@@ -134,29 +118,33 @@ A multi-agent AutoML platform that automates machine learning workflows through 
 
 `LangGraph` `Groq` `Optuna` `PyTorch` `Scikit-learn` `Chainlit`
 
+[Repository](https://github.com/Kshubham0315/Omni_ML)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03. StyleForge
+### 03. [StyleForge ↗](https://github.com/Kshubham0315/StyleForge)
 
 **Research-Grade Generative AI**
 
-An experimental generative modeling project focused on advanced GAN architectures, training stability, and quantitative evaluation.
+An experimental generative modeling project focused on advanced GAN architectures, training stability and quantitative evaluation.
 
 - WGAN-GP / LSGAN experimentation.
 - Spectral normalization and self-attention.
 - Style mixing and AdaIN exploration.
 - Training regularization and controlled ablations.
-- FID, KID, and generative quality evaluation.
+- FID, KID and generative quality evaluation.
 
-`PyTorch` `GANs` `WGAN-GP` `SAGAN` `AdaIN` `Computer Vision`
+`PyTorch` `GANs` `WGAN-GP` `SAGAN` `AdaIN`
+
+[Repository](https://github.com/Kshubham0315/StyleForge)
 
 </td>
 <td width="50%" valign="top">
 
-### 04. E_TO_E_MLOPS
+### 04. [E_TO_E_MLOPS ↗](https://github.com/Kshubham0315/E_TO_E_MLOPS)
 
 **End-to-End Machine Learning Pipeline**
 
@@ -168,14 +156,16 @@ A production-oriented ML deployment and monitoring system.
 - Docker and AWS ECR/EKS deployment.
 - Prometheus and Grafana monitoring.
 
-`Flask` `MLflow` `DVC` `Docker` `AWS` `Prometheus` `Grafana`
+`Flask` `MLflow` `DVC` `Docker` `AWS` `Prometheus`
+
+[Repository](https://github.com/Kshubham0315/E_TO_E_MLOPS)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 05. IPsec Sentinel
+### 05. [IPsec Sentinel ↗](https://github.com/Kshubham0315/IPsec-Sentinel)
 
 **AI-Assisted Network Security Intelligence**
 
@@ -187,92 +177,103 @@ A privacy-aware network traffic analysis system for IPsec/IKE protocol monitorin
 - SHAP-based explainability.
 - No credential requirement or payload decryption.
 
-`Python` `SHAP` `PCAP` `Network Security` `Machine Learning`
+`Python` `SHAP` `PCAP` `Network Security` `ML`
+
+[Repository](https://github.com/Kshubham0315/IPsec-Sentinel)
 
 </td>
 <td width="50%" valign="top">
 
-### 06. OnFloor
+### 06. [NeuroScan AI ↗](https://github.com/Kshubham0315/NeuroScan-AI)
 
-**AI-Powered Sales Training Platform**
+**Medical AI & Neuroimaging**
 
-A conversational AI platform combining voice-based customer simulation and real-time sales assistance.
+AI-powered brain MRI analysis with deep learning and explainability.
 
-- Hindi, English, and Hinglish voice interactions.
-- AI-powered customer practice.
-- RAG-based live copilot assistance.
-- Automated performance scorecards.
-- Merchant dashboard and ticketing workflows.
+- Brain tumor classification.
+- Grad-CAM-based visual explanations.
+- MRI analysis workflow.
+- Automated reporting.
 
-`Conversational AI` `RAG` `Voice AI` `ElevenLabs` `DigitalOcean`
+`Python` `Deep Learning` `CNN` `Grad-CAM`
+
+[Repository](https://github.com/Kshubham0315/NeuroScan-AI)
 
 </td>
 </tr>
 </table>
 
+### Additional Project
+
+**[OnFloor ↗](https://github.com/Kshubham0315?tab=repositories)** — AI-powered sales training, conversational voice simulation and real-time copilot. Explore my repositories for the project source.
+
 ---
 
 ## ◈ Open Source Contributions
 
-Contributing to open-source ecosystems through bug fixes, performance improvements, feature development, and engineering discussions.
+Contributing to open-source ecosystems through bug fixes, performance improvements, feature development and engineering discussions.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### PySAD
+### [PySAD ↗](https://github.com/selimfirat/pysad)
 
-**Pull Request #395**
+**Pull Request #397**
 
 - RRCF vectorization and performance optimization.
 - Improved computational efficiency.
-- Benchmarked approximately 2x speedup on initial evaluated datasets.
+- Approximately 1.97× overall benchmark speedup.
 
-<a href="https://github.com/selimfirat/pysad/pull/395">
-<img src="https://img.shields.io/badge/View_PR-181717?style=flat-square&logo=github"/>
-</a>
+[![PR](https://img.shields.io/badge/MERGED-PR_%23397-238636?style=flat-square&logo=github)](https://github.com/selimfirat/pysad/pull/397)
 
 </td>
 <td width="50%" valign="top">
 
-### LangChain
+### [LangChain ↗](https://github.com/langchain-ai/langchain)
 
 **Pull Requests #40802 and #41507**
 
 - TypeSafeClassifier serialization/deserialization mapping.
 - MCPConfig tools reporting and MCPRouter-related improvements.
 
-<a href="https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+author%3AKshubham0315">
-<img src="https://img.shields.io/badge/View_Contributions-181717?style=flat-square&logo=github"/>
-</a>
+[PR #40802](https://github.com/langchain-ai/langchain/pull/40802) · [PR #41507](https://github.com/langchain-ai/langchain/pull/41507)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### OpenVax / Topiary
+### [OpenVax / Topiary ↗](https://github.com/openvax/topiary)
 
-**Pull Request #368**
+**Pull Request #506**
 
-- Historical table prediction source feature.
-- Contribution to data-driven functionality.
+- Historical prediction sources.
+- Preserved provenance for prediction data.
 
-<a href="https://github.com/OpenVax/Topiary/pull/368">
-<img src="https://img.shields.io/badge/View_PR-181717?style=flat-square&logo=github"/>
-</a>
+[![PR](https://img.shields.io/badge/MERGED-PR_%23506-238636?style=flat-square&logo=github)](https://github.com/openvax/topiary/pull/506)
+
+</td>
+<td width="50%" valign="top">
+
+### [GEPA AI ↗](https://github.com/gepa-ai/gepa)
+
+**Pull Request #526**
+
+- Improved documentation around `reflection_lm` vs `task_lm`.
+- Clarified model-selection guidance.
+
+[![PR](https://img.shields.io/badge/OPEN-PR_%23526-8957E5?style=flat-square&logo=github)](https://github.com/gepa-ai/gepa/pull/526)
 
 </td>
 </tr>
 </table>
 
+[View all my GitHub contributions ↗](https://github.com/Kshubham0315?tab=contributions)
+
 ---
 
 ## ✧ Certifications & Achievements
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 ### AWS Certifications
 
@@ -281,29 +282,16 @@ Contributing to open-source ecosystems through bug fixes, performance improvemen
 - AWS Certified CloudOps Engineer – Associate
 - AWS Certified Machine Learning Engineer – Associate
 
-**Additional Learning**
+### Additional Learning
 
 - AWS AI Essentials
-- IBM AI Engineering Professional Certificate
+- [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
 
-</td>
-<td width="50%" valign="top">
+### Hackathon Achievements
 
-### Hackathon Achievement
-
-**NIT Jalandhar Hackathon**
-
-<img src="https://img.shields.io/badge/TOP_10-FINALIST-238636?style=for-the-badge"/>
-
-Selected among the Top 10 engineering teams nationwide during a 36-hour hackathon build sprint.
-
-**Cloud Certification Highlight**
-
-<img src="https://img.shields.io/badge/AWS_CloudOps_Associate-832_Score-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+- Overall 1st Prize — Innohacks 4.0
+- Best Use of ElevenLabs — Innohacks 4.0
+- Best Use of DigitalOcean — Innohacks 4.0
 
 ---
 
@@ -331,7 +319,7 @@ Selected among the Top 10 engineering teams nationwide during a 36-hour hackatho
 
 **Additional Technologies**
 
-`LangChain` · `LangGraph` · `MCP` · `RAG` · `Hugging Face` · `MLflow` · `DVC` · `Optuna` · `XGBoost` · `Pandas` · `NumPy` · `Matplotlib` · `Prometheus` · `Git`
+`LangChain` · `LangGraph` · `MCP` · `RAG` · `Hugging Face` · `MLflow` · `DVC` · `Optuna` · `XGBoost` · `Pandas` · `NumPy` · `Prometheus` · `Git`
 
 ---
 
@@ -345,6 +333,10 @@ Selected among the Top 10 engineering teams nationwide during a 36-hour hackatho
 
 <a href="https://www.geeksforgeeks.org/user/kshubham0315/">
 <img src="https://img.shields.io/badge/GFG-260%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://codolio.com/profile/kshubham0315">
+<img src="https://img.shields.io/badge/Codolio-View%20Profile-7C3AED?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -420,25 +412,17 @@ Selected among the Top 10 engineering teams nationwide during a 36-hour hackatho
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kshubham0315">
-<img src="https://img.shields.io/badge/LinkedIn-Shubham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/shubham-kumar-4b0118320"><img src="https://img.shields.io/badge/LinkedIn-Shubham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://github.com/Kshubham0315">
-<img src="https://img.shields.io/badge/GitHub-Kshubham0315-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/Kshubham0315"><img src="https://img.shields.io/badge/GitHub-Kshubham0315-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://huggingface.co/kshubham0315">
-<img src="https://img.shields.io/badge/HuggingFace-kshubham0315-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
+<a href="https://huggingface.co/kshubham0315"><img src="https://img.shields.io/badge/HuggingFace-kshubham0315-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 
-<a href="https://www.kaggle.com/kshubham0315">
-<img src="https://img.shields.io/badge/Kaggle-kshubham0315-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<a href="https://www.kaggle.com/kshubham0315"><img src="https://img.shields.io/badge/Kaggle-kshubham0315-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
-<a href="https://www.codolio.com/profile/kshubham0315">
-<img src="https://img.shields.io/badge/Codolio-Profile-58A6FF?style=for-the-badge"/>
-</a>
+<a href="https://codolio.com/profile/kshubham0315"><img src="https://img.shields.io/badge/Codolio-Profile-58A6FF?style=for-the-badge"/></a>
+
+<a href="https://leetcode.com/u/Shubham_Kumar_47/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/><br/>
 
