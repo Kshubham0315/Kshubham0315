@@ -219,15 +219,13 @@ Developing AI-powered APIs, integrating intelligent systems with production back
 
 ### Hackathon Achievements
 
-**Innohacks 4.0**
+**NIT Jalandhar Hackathon**
 
-<img src="https://img.shields.io/badge/Overall-1st%20Prize-238636?style=flat-square"/>
+<img src="https://img.shields.io/badge/Top%2010-Finalist-238636?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Special_Award-Best%20Use%20of%20ElevenLabs-1F6FEB?style=flat-square"/>
+Selected among the **Top 10 engineering teams** nationwide during a 36-hour hackathon build sprint.
 
-<img src="https://img.shields.io/badge/Special_Award-Best%20Use%20of%20DigitalOcean-1F6FEB?style=flat-square"/>
-
-**Open Source Contributions**
+### Open Source Contributions
 
 - PySAD
 - LangChain
